@@ -1,0 +1,66 @@
+[
+  {
+    "name" : "黑木耳无广告",
+    "api" : "https:\/\/json.heimuer.tv\/api.php\/provide\/vod\/?ac=list"
+  },
+  {
+    "name" : "海外看，需梯子",
+    "api" : "http:\/\/api.haiwaikan.com\/v1\/vod?ac=list"
+  },
+  {
+    "name" : "1080",
+    "api" : "https:\/\/api.1080zyku.com\/inc\/api_mac10_all.php"
+  },
+  {
+    "name" : "360",
+    "api" : "https:\/\/360zy.com\/api.php\/provide\/vod"
+  },
+  {
+    "name" : "ikun ",
+    "api" : "https:\/\/ikunzyapi.com\/api.php\/provide\/vod"
+  },
+  {
+    "name" : "乐视",
+    "api" : "https:\/\/leshiapi.com\/api.php\/provide\/vod"
+  },
+  {
+    "name" : "OK资源",
+    "api" : "https:\/\/api.okzy.org\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "暴风",
+    "api" : "https:\/\/bfzyapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "量子",
+    "api" : "https:\/\/cj.lziapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "非凡",
+    "api" : "http:\/\/api.ffzyapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "快看",
+    "api" : "https:\/\/kuaikan-api.com\/api.php\/provide\/vod\/from\/kuaikan"
+  },
+  {
+    "name" : "魔都，需梯子",
+    "api" : "https:\/\/caiji.moduapi.cc\/api.php\/provide\/vod\/?ac=list"
+  },
+  {
+    "name" : "豪华",
+    "api" : "https:\/\/hhzyapi.com\/api.php\/provide\/vod\/at\/json"
+  },
+  {
+    "name" : "金鹰",
+    "api" : "https:\/\/jyzyapi.com\/provide\/vod"
+  },
+  {
+    "name" : "速播",
+    "api" : "https:\/\/subocaiji.com\/api.php\/provide\/vod"
+  },
+  {
+    "name" : "无尽",
+    "api" : "https:\/\/api.wujinapi.me\/api.php\/provide\/vod\/from\/wjm3u8\/"
+  }
+]
